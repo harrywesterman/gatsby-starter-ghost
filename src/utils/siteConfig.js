@@ -1,6 +1,6 @@
 const config = require(`../../.ghost.json`).production;
 module.exports = {
-    siteUrl: `https://thuisbrouwer.westermanonline.com`
+    siteUrl: `https://thuisbrouwer.westermanonline.com`,
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
