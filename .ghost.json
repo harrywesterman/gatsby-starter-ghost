@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://ghost.westermanonline.com",
-    "contentApiKey": "9a43da1d9b613191146901755a"
+    "contentApiKey": "5ff491c22ced8d25c94c6d8a32"
   },
   "production": {
     "apiUrl": "https://ghost.westermanonline.com",
-    "contentApiKey": "9a43da1d9b613191146901755a"
+    "contentApiKey": "5ff491c22ced8d25c94c6d8a32"
   }
 }
